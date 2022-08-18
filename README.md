@@ -18,6 +18,7 @@ It was created especially to understand the basics and implement **Page Object M
 To run web automated tests in Chrome browser, [ChromeDriver](https://chromedriver.chromium.org/downloads) needs to be downloaded
 
 ### Windows
+* Update your Chrome browser
 * Download driver version compatible to your Chrome browser version
 * Unpack chromedriver.exe from the archive and put it under desired directory, for example (C:\webdrivers)
 * Set PATH variable to above specified directory
