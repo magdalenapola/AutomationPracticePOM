@@ -24,6 +24,7 @@ To run web automated tests in Chrome browser, [ChromeDriver](https://chromedrive
 * Set PATH variable to above specified directory
 
 ### MacOS
+* Update your Chrome browser
 * Download driver version compatible to your Chrome browser version
 * Unpack chromedriver.exe from the archive and put it under usr/local/bin
 
